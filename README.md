@@ -19,13 +19,16 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 ## Analysis
 key questions:
 
-1.Accident Trends Over Time:
+1. Accident Trends Over Time:
 Analyze how accident rates have changed throughout the years and identify which days experience the highest number of accidents.
+
 2. Day vs. Night Comparison:
 Examine differences in accident frequency between daytime and nighttime periods.
-3. Geographical Distribution:
-Identify U.S. cities with the highest accident counts and assess 
-4. Environmental and Contextual Factors:
+
+4. Geographical Distribution:
+Identify U.S. cities with the highest accident counts and assess.
+
+6. Environmental and Contextual Factors:
 Evaluate how weather conditions and points of interest (POI) influence accident frequency.
 
 
@@ -47,9 +50,9 @@ Evaluate how weather conditions and points of interest (POI) influence accident 
  3. Integrate Low Temperature Driver Alerts.
 
 * The General Public:
-  1. Adopt Cold Weather Driving Caution.
-  2. Be Extra Vigilant During Peak Commute Times.
-  3. Maintain Safe Distance in Calm (Low-Wind) Conditions.
+1. Adopt Cold Weather Driving Caution.
+2.  Be Extra Vigilant During Peak Commute Times.
+3.   Maintain Safe Distance in Calm (Low-Wind) Conditions.
 
 
 
