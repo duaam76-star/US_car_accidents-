@@ -19,17 +19,44 @@ This is a countrywide car accident dataset that covers 49 states of the USA. The
 ## Analysis
 key questions:
 
-1.	Average severity of accidents
-2.	Do accidents occur more often during the day or at night?
-3.	Which state has the highest number of accidents?
-4.	Which roads have the most severe accidents?
-5.	Does road length affect the severity of an accident?
-6.	How do infrastructure elements such as traffic signals, intersections, railways, designated lanes, and parking areas affect accident frequency and severity?
-7.	How do weather factors (temperature, precipitation, visibility, weather conditions) affect accident severity?
+1.Accident Trends Over Time:
+Analyze how accident rates have changed throughout the years and identify which days experience the highest number of accidents.
+2. Day vs. Night Comparison:
+Examine differences in accident frequency between daytime and nighttime periods.
+3. Geographical Distribution:
+Identify U.S. cities with the highest accident counts and assess 
+4. Environmental and Contextual Factors:
+Evaluate how weather conditions and points of interest (POI) influence accident frequency.
 
 
 
-## Conclution
+
+
+
+
+## RECOMMENDATON 
+
+* Public Safety Officials:
+ 1. Prioritize Winter Weather Preparedness.
+ 2. Target Enforcement on Fridays and During Daytime.
+ 3. Upgrade High-Accident Intersections.
+
+* Vehicle Manufacturers:
+ 1. Enhance Winter Traction and Stability Systems.
+ 2. Improve Low-Visibility Lighting and Defrosting.
+ 3. Integrate Low Temperature Driver Alerts.
+
+* The General Public:
+  1. Adopt Cold Weather Driving Caution.
+  2. Be Extra Vigilant During Peak Commute Times.
+  3. Maintain Safe Distance in Calm (Low-Wind) Conditions.
+
+
+
+
+
+
+
 
 
 
